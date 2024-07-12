@@ -1,2 +1,0 @@
-# neatpixel
-my portfolio
